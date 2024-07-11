@@ -1,5 +1,4 @@
-# Technohacks
-CURRENCY CONVERTER
+
 class CurrencyConverter:
     def __init__(self):
         # Pre-defined exchange rates (as of 2022-01-01)
